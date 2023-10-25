@@ -197,3 +197,6 @@ def solverSCP(id, mh, maxIter, pop, instancia, DS, repairType, param):
     
     
     
+    
+    
+    
