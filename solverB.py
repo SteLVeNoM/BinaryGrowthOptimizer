@@ -163,3 +163,10 @@ def solverB(id, mh, maxIter, pop, function, lb, ub, dim):
     bd.actualizarExperimento(id, 'terminado')
     
     #os.remove(dirResult+mh+"_"+function+"_"+str(id)+".csv")
+
+    bd = BD()
+    bd.insertarIteraciones(nombre_archivo, binary, id)
+    bd.insertarResultados(BestFitness, tiempoEjecucion, Best, id)
+    bd.actualizarExperimento(id, 'terminado')
+    
+    #os.remove(dirResult+mh+"_"+function+"_"+str(id)+".csv")
