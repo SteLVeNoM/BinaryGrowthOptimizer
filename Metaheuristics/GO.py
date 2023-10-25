@@ -165,3 +165,8 @@ def GO(popsize, dimension, xmax, xmin, MaxFEs, function, iter, x, fitness, type)
 # Supongamos que tienes una función de aptitud "Fitness" y su identificador "FuncId".
 # Y deseas utilizar el algoritmo GO para encontrar el mejor valor en un espacio de búsqueda:
 # best_solution, best_fitness, fitness_history = GO(popsize, dimension, xmax, xmin, MaxFEs, Fitness, FuncId)
+
+# Ejemplo de uso:
+# Supongamos que tienes una función de aptitud "Fitness" y su identificador "FuncId".
+# Y deseas utilizar el algoritmo GO para encontrar el mejor valor en un espacio de búsqueda:
+# best_solution, best_fitness, fitness_history = GO(popsize, dimension, xmax, xmin, MaxFEs, Fitness, FuncId)
