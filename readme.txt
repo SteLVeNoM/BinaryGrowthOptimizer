@@ -1,4 +1,4 @@
-Nota: Importate tomar en cuenta que los códigos presentados son ediciones de códigos entregados por Felipe Cisternas Caneo, Docente de la Pontificie Universidad Católica de Valparaíso
+Nota: El presente repositorio se compone de códigos modificados a necesidad del proyecto, los códigos originales fueron entregados por Felipe Cisternas Caneo, Docente de la Pontificie Universidad Católica de Valparaíso.
 
 El presente proyecto está dividido en diferentes carpetas las cuales son las siguientes:
 
@@ -17,7 +17,6 @@ El presente proyecto está dividido en diferentes carpetas las cuales son las si
         5. Sine Cosine Algorithm
         6. Whale Optimization Algorithm
         7. Binary Growth Optimizer Algorithm
-    EN ESTA CARPETA DEBEN IMPLEMENTAR SU metaheurísticas
 5. Problem:
     En esta carpeta se encuentran todos los componentes de los problemas de optimización implementados. En este proyecto solo se encuentran dos problemas:
         1. Funciones matemáticas Benchmark: Estas son las funciones matemáticas Benchmark clásicas resueltas en la literatura. Son problemas continuos
